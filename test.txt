@@ -1,0 +1,10 @@
+ Volume in drive D has no label.
+ Volume Serial Number is 8606-F2E5
+
+ Directory of D:\DevOps\GIT
+
+01/21/2019  11:44 AM    <DIR>          .
+01/21/2019  11:44 AM    <DIR>          ..
+01/21/2019  11:44 AM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  166,152,454,144 bytes free
